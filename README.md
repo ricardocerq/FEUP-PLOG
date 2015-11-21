@@ -1,6 +1,5 @@
 # FEUP-PLOG
-Projects developed for Logic Programming class
-Implementation of the board game [Morelli](http://www.boardspace.net/portuguese/about_morelli.html) in Prolog.
+Porject 1 -Implementation of the board game [Morelli](http://www.boardspace.net/portuguese/about_morelli.html) in Prolog.
 The game features the modes Player vs. Player, Player vs. Computer and Computer vs. Computer. For the AI, three difficulty modes are available:
   1 - Random: the computer randomly selects a move from the set of possible moves
   2 - Greedy: the computer selects the move that results in what it considers to be its best possible state, according to its heuristic.
